@@ -1,4 +1,5 @@
-<h1 align="center">Hello! I´m Marco Romano Fina 👋</h1>
+<h1 align="center">Hello! I'm Marco Romano Fina 👋</h1>
+
 
 <h2 align="left"> About me </h2>
 
@@ -19,24 +20,34 @@ I'm really interested in collaborative development and learning how real softwar
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JPA / Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<h2 align="left"> Current Proyect: BidCast </h2>
-Event-driven auction and billing platform.
+<h2 align="left">Current Project: BidCast</h2>
+Event-driven auction and billing platform designed to handle high volumes of real-time bids efficiently.
 
 **Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Docker, RabbitMQ
 
-- Implemented microservices architecture and trade-offs
+- Platform connecting device owners (screens in gyms, restaurants, shops) with advertisers.
+- Campaigns run on the devices, generating revenue via real-time auction-based ad placement. 
+- Explored microservices architecture to evaluate trade-offs in performance, scalability, and maintainability.
 - Designed backend logic for scalable, real-time auctions
-- [GitHub Repo](https://github.com/marcoRomanoFina/bidcast)
+- [GitHub Repo](https://github.com/marcoRomanoFina/bidcast) for more info.
 
-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoRomanoFina&show_icons=true&theme=radical" />
-</div>
+---
+
+<h2 align="left">Hobbies and Interests</h2>
+
+ Outside of tech, I enjoy listening to music🎵 and playing piano🎹, working out🏃, cooking🧑‍🍳, and reading📚.
+
+---
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-romano-fina)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoromanofinaa@gmail.com)
