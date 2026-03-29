@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I´m Marco Romano Fina 👋</h1>
 
-
 <h2 align="left"> About me </h2>
-<br>
 
 <div align="center">
 I'm an advanced Computer Science student at the University of Buenos Aires (UBA).
@@ -11,11 +9,6 @@ I love designing and building scalable backend systems and solving problems by t
 I'm really interested in collaborative development and learning how real software teams work.
 </div>
 <br>
-
-* Tech I'm currently working with: Java, Spring Boot, PostgreSQL, Docker and RabbitMQ.
-
-* Outside of tech, I enjoy listening to music🎵and playing piano🎹, working out🏃, cooking🧑‍🍳, and reading📚.
-
 
 <h2 align="left"> Tech stack </h2>
 
@@ -43,3 +36,7 @@ Event-driven auction and billing platform.
 - Implemented microservices architecture and trade-offs
 - Designed backend logic for scalable, real-time auctions
 - [GitHub Repo](https://github.com/marcoRomanoFina/bidcast)
+
+- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoRomanoFina&show_icons=true&theme=radical" />
+</div>
