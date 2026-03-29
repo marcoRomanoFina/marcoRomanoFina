@@ -2,6 +2,7 @@
 
 
 <h2 align="left"> About me </h2>
+<br>
 
 <div align="center">
 I'm an advanced Computer Science student at the University of Buenos Aires (UBA).
