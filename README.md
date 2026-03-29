@@ -34,3 +34,12 @@ I'm really interested in collaborative development and learning how real softwar
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h2 align="left"> Current Proyect: BidCast </h2>
+Event-driven auction and billing platform.
+
+**Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Docker, RabbitMQ
+
+- Implemented microservices architecture and trade-offs
+- Designed backend logic for scalable, real-time auctions
+- [GitHub Repo](https://github.com/marcoRomanoFina/bidcast)
