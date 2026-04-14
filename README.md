@@ -35,7 +35,7 @@ Event-driven auction and billing platform designed to handle high volumes of rea
 **Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Docker, RabbitMQ
 
 - Platform connecting device owners (screens in gyms, restaurants, shops) with advertisers.
-- Campaigns run on the devices, generating revenue via real-time auction-based ad placement. 
+- Advertising campaigns are delivered to physical screens through live session-based, slot-driven auction selection.
 - Explored microservices architecture to evaluate trade-offs in performance, scalability, and maintainability.
 - Designed backend logic for scalable, real-time auctions
 - [GitHub Repo](https://github.com/marcoRomanoFina/bidcast) for more info.
