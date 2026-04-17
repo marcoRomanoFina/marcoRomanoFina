@@ -29,7 +29,7 @@ I'm really interested in collaborative development and learning how real softwar
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<h2 align="left">Current Project: BidCast</h2>
+<h2 align="left">Current Project: AdCast</h2>
 Event-driven auction and billing platform designed to handle high volumes of real-time bids efficiently.
 
 **Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Docker, RabbitMQ
