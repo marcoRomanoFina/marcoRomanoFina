@@ -29,16 +29,16 @@ I'm really interested in collaborative development and learning how real softwar
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<h2 align="left">Current Project: AdCast</h2>
-Event-driven auction and billing platform designed to handle high volumes of real-time bids efficiently.
+<h2 align="left">Current Project: JazzLogs</h2>
+Backend for a curated jazz recommendation platform that combines my personal editorial music knowledge, Spotify catalog sync, and semantic indexing foundations for future RAG-powered recommendations.
 
-**Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Docker, RabbitMQ
+**Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Flyway, Docker, Spring AI, OpenAPI
 
-- Platform connecting device owners (screens in gyms, restaurants, shops) with advertisers.
-- Advertising campaigns are delivered to physical screens through live session-based, slot-driven auction selection.
-- Explored microservices architecture to evaluate trade-offs in performance, scalability, and maintainability.
-- Designed backend logic for scalable, real-time auctions
-- [GitHub Repo](https://github.com/marcoRomanoFina/AdCast) for more info.
+- Building the backend for a conversational recommendation product focused on jazz discovery, grounded in a curated dataset based on my daily Instagram project: @jazz.logs.
+- Built an original editorial dataset by classifying jazz albums, tracks, and artists into structured logs with mood, style, listening context, and editorial notes.
+- Integrated the Spotify API (OAuth + playlist sync) to import and normalize referenced albums, tracks, and artists, enriching the dataset with structured catalog metadata.
+- Designed a semantic indexing pipeline to support future retrieval-augmented, LLM-powered recommendations aligned with my own editorial criteria rather than generic outputs.
+- [GitHub Repo](https://github.com/marcoRomanoFina/jazzlogs) for more info.
 
 ---
 
