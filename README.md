@@ -30,6 +30,7 @@ I'm really interested in collaborative development and learning how real softwar
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 <h2 align="left">Current Project: JazzLogs</h2>
+
 Backend for a curated jazz recommendation platform that combines my personal editorial music knowledge, Spotify catalog sync, and semantic indexing foundations for future RAG-powered recommendations.
 
 **Tech I used:** Java, Spring Boot, PostgreSQL/JPA, Flyway, Docker, Spring AI, OpenAPI
