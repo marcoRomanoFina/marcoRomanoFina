@@ -5,7 +5,7 @@
 
 <div align="center">
 I'm an advanced Computer Science student at the University of Buenos Aires (UBA).
-Currently looking for a Backend Developer role to apply my knowledge of distributed systems to real-world challenges and keep growing alongside a tech team.
+Currently looking for a Backend Developer role to apply my knowledge to real-world challenges and keep growing alongside a tech team.
 I love designing and building scalable backend systems and solving problems by turning complex ideas into efficient, robust solutions.
 I'm really interested in collaborative development and learning how real software teams work.
 </div>
